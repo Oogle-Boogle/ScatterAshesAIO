@@ -1,0 +1,2 @@
+# ScatterAshesAIO
+RuneScape OSRS BOT.
